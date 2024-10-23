@@ -86,7 +86,9 @@ main{
 .overskrift{
     color: var(--graynine);
     font-weight: 950;
+    font-size: 1.5rem;
     margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 .description{
@@ -98,7 +100,7 @@ main{
 .published{
     color: var(--graynine);
     font-weight: 600;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
